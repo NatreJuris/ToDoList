@@ -22,9 +22,11 @@ body {
 input {
     padding-top: 3px;
     width: 160px;
-    height: 60px;
+    height: 40px;
     font-size:20px;
     border: 0;
+    color: light Grey;
+    font-color: bright blue;
 }
 input:focus {
     outline: none;
