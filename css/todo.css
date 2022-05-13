@@ -1,5 +1,5 @@
 html, body {
-    height: 30%;
+    height: 20%;
   }
 html {
     font-family: "Avenir Next", Helvetica, sans-serif;
@@ -10,7 +10,7 @@ body {
     flex-direction: column;
   }
 body {
-    max-width: 200px;
+    max-width: 160px;
     margin: 0 auto;
 }
 .content {
@@ -21,7 +21,7 @@ body {
   }
 input {
     padding-top: 3px;
-    width: 200px;
+    width: 160px;
     height: 60px;
     font-size:20px;
     border: 0;
@@ -36,7 +36,7 @@ li {
     margin: 0;
 }
 .container {
-    height: 200px;
+    height: 160px;
     display: flex;
     align-items: center;
     justify-content: center;
