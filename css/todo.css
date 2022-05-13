@@ -10,7 +10,7 @@ body {
     flex-direction: column;
   }
 body {
-    max-width: 500px;
+    max-width: 300px;
     margin: 0 auto;
 }
 .content {
@@ -20,10 +20,10 @@ body {
     flex-shrink: 0;
   }
 input {
-    padding-top: 30px;
-    width: 500px;
+    padding-top: 3px;
+    width: 300px;
     height: 60px;
-    font-size:40px;
+    font-size:20px;
     border: 0;
 }
 input:focus {
@@ -31,7 +31,7 @@ input:focus {
 }
 li {
     text-align: left;
-    font-size: 40px;
+    font-size: 20px;
     list-style: none;
     margin: 0;
 }
